@@ -1,0 +1,26 @@
+{
+  "name": "@zelloptt/test-project",
+  "version": "1.0.0",
+  "description": "no desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test available\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneP-Zello/test-project.git"
+  },
+  "keywords": [
+    "test",
+    "only"
+  ],
+  "author": "Zello Inc",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/EugeneP-Zello/test-project/issues"
+  },
+  "homepage": "https://github.com/EugeneP-Zello/test-project#readme"
+}
