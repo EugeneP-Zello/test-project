@@ -1,6 +1,6 @@
 {
   "name": "@zelloptt/test-project",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "no desc",
   "main": "index.js",
   "scripts": {
